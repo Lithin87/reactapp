@@ -1,13 +1,13 @@
  import './App.css';
 import ImageDisp from './Components/ImageComp';
-import Box from '@mui/material/Box';
 import FrontHead from './Components/FrontHead';
-import Grid from '@mui/material/Unstable_Grid2';
 import CloseOpen from './Components/CloseOpen';
+import InputDisp from './Components/InputDisp';
+import FloatingActionButtons from './Components/FloatingActionButtons';
+import Box from '@mui/material/Box';
+import Grid from '@mui/material/Unstable_Grid2';
 import appContext from './Context.js/app-context';
 import { useState } from 'react';
-import FloatingActionButtons from './Components/FloatingActionButtons';
-import InputDisp from './Components/InputDisp';
 
 
 function App() {
